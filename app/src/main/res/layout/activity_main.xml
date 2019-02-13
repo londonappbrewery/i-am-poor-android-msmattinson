@@ -16,7 +16,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
-        app:srcCompat="@drawable/coal" />
+        app:srcCompat="@drawable/coal"
+        android:contentDescription="@string/Poorhouse" />
 
     <TextView
         android:id="@+id/textView"
